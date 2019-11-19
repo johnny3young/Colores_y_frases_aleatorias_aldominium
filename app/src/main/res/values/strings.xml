@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Colores_y_frases_aleatorias_ aldominium</string>
+    <string name="random">Random</string>
+
+    <string-array name="phrases">
+        <item>Buenos días</item>
+        <item>Hola, que bueno que te despertaste</item>
+        <item>Si</item>
+        <item>No</item>
+        <item>Dios te bendiga</item>
+        <item>Por qué no me llamaste?</item>
+        <item>Está haciendo un día super lindo</item>
+        <item>Creo que sí</item>
+    </string-array>
+</resources>
